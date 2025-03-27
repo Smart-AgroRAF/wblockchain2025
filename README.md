@@ -27,7 +27,7 @@ O levantamento de dados do projeto foi baseado no **Censo Agropecuário do IBGE 
 
 ### 2. Código-Fonte do Smart Contract
 
-O contrato inteligente foi implementado em **Solidity** para execução na **Ethereum Virtual Machine (EVM)**. Ele pode ser encontrado na raíz do projeto, está nomeado como "supply_chain.sol"
+O contrato inteligente foi implementado em **Solidity** para execução na **Ethereum Virtual Machine (EVM)**. Ele pode ser encontrado na pasta de contratos, está nomeado como "supply_chain.sol"
 
 #### 2.1 Funcionalidades
 

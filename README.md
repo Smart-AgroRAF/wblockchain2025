@@ -57,5 +57,5 @@ A análise considerou o custo das transações em redes públicas **(Ethereum, B
 
 ![image](https://github.com/user-attachments/assets/87d3c1af-4017-46d0-a601-c8ebd0ce1a48)
 
-### 4.2 Comparação da evolução dos custos entre diferentes regiões
+#### 4.2 Comparação da evolução dos custos entre diferentes regiões
 ![image](https://github.com/user-attachments/assets/a7f43fc7-84cb-4e88-ac7e-3d6e4a269695)
